@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm <b>Thiago Teberga</b></h1>
-<h3 align="left">Brasileiro, 27 anos, casado. Atualmente trabalho como Administrador de Sistemas na Unimed de Pindamonhangaba, utilizamos o ERP Totvs 12 GPS, sou responsável pela manutenção, suporte e atualização do produto. Atuo com todos os módulos direcionados ao Plano de Saúde. Além disso, desenvolvo aplicações web de backoffice visando simplificar processos internos da empresa. Tenho dedicado meu tempo livre a aprender novas tecnologias.</h3>
+<h3 align="left">Brasileiro, 27 anos, casado. Atualmente trabalho como Administrador de Sistemas na Unimed de Pindamonhangaba, na maior parte do tempo desenvolvo aplicações web de backoffice utilizando Vue.js e Laravel. Além disso, sou responsável pela manutenção, suporte e atualização do ERP Totvs 12 GPS (atuo com todos os módulos direcionados ao plano de saúde). Tenho dedicado meu tempo livre a aprender novas tecnologias.</h3>
 
 #
 
@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
 
 #
@@ -18,7 +18,7 @@
 ![Oracle](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Materialize](https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white)
