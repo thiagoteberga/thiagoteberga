@@ -1,4 +1,4 @@
-<h1 align="center">Hello dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm <b>Thiago Teberga</b></h1>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm <b>Thiago Teberga</b></h1>
 <h3 align="left">I'm a passionate tech lead and developer hailing from Brazil 🇧🇷. With 30 orbits around the sun, I'm on a relentless quest to hone my skills in architecture while lending a helping hand to my fellow developers. 💻 When I'm not crafting elegant solutions to complex problems, you can find me savoring a cup of Brazilian coffee or exploring the latest trends in tech. Let's connect and build amazing things together! 🚀</h3>
 
 #
